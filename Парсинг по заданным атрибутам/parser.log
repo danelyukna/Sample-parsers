@@ -1,0 +1,26 @@
+2025-11-10 15:59:26,315 - INFO - ====== WebDriver manager ======
+2025-11-10 15:59:26,315 - INFO - ====== WebDriver manager ======
+2025-11-10 15:59:26,315 - INFO - ====== WebDriver manager ======
+2025-11-10 15:59:26,315 - INFO - ====== WebDriver manager ======
+2025-11-10 15:59:26,316 - INFO - ====== WebDriver manager ======
+2025-11-10 15:59:28,258 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-10 15:59:28,347 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-10 15:59:28,378 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-10 15:59:28,378 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-10 15:59:28,381 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-10 15:59:28,383 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-10 15:59:28,464 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-10 15:59:28,497 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-10 15:59:28,501 - INFO - Driver [C:\Users\n.danelyuk\.wdm\drivers\chromedriver\win64\142.0.7444.61\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-10 15:59:28,501 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-10 15:59:28,502 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-10 15:59:28,577 - INFO - Driver [C:\Users\n.danelyuk\.wdm\drivers\chromedriver\win64\142.0.7444.61\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-10 15:59:28,609 - INFO - Driver [C:\Users\n.danelyuk\.wdm\drivers\chromedriver\win64\142.0.7444.61\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-10 15:59:28,612 - INFO - Driver [C:\Users\n.danelyuk\.wdm\drivers\chromedriver\win64\142.0.7444.61\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-10 15:59:28,613 - INFO - Driver [C:\Users\n.danelyuk\.wdm\drivers\chromedriver\win64\142.0.7444.61\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-10 15:59:29,874 - INFO - Поток Thread-2 начал чанк 1 (251-500)
+2025-11-10 15:59:29,879 - INFO - Поток Thread-1 начал чанк 0 (1-250)
+2025-11-10 15:59:30,246 - INFO - Поток Thread-3 начал чанк 2 (501-750)
+2025-11-10 15:59:30,246 - INFO - Поток Thread-5 начал чанк 4 (1001-1250)
+2025-11-10 15:59:30,306 - INFO - Поток Thread-4 начал чанк 3 (751-1000)
+2025-11-10 15:59:48,492 - ERROR - Ошибка в чанке 3: ('Connection aborted.', ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None))
